@@ -1,30 +1,9 @@
-# React + TypeScript + Vite
+I'm thrilled to announce that I've successfully completed a landing page of a website called Livspace. This project was a fantastic learning experience, allowing me to dive deep into React, Material UI, and the AOS (Animate On Scroll) library.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 AOS (Animate On Scroll): AOS is a library which allowed me to create stunning animations which triggers as elements scroll into view. It adds a layer of dynamism and engagement to web pages, enhancing the overall user experience.
 
-Currently, two official plugins are available:
+🛠️ Material UI: For this project, I utilized Material UI for key components like the navbar, accordion, cards, and testimonials. Material UI's components are easier to customize and provides high level of responsiveness, making them ideal for modern web design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I'm incredibly proud of the outcome, especially the responsiveness achieved with the design. The Design was initially designed using Canva which was later Developed into React Components.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+#React #MaterialUI #AOS #WebDevelopment #LandingPage #Canva
