@@ -96,7 +96,7 @@ const testimonials = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZHshNWwR3pXp7Hh83xsLyecINbCAWaja8iizYC2-wRheNNOne_e-rsxiDgctrUPJt5V4&usqp=CAU",
     rating: 5,
     text: "Livspace helped me create a space that reflects my personality and style. I couldn't be happier with the results!",
-    name: "Laura H",
+    name: "Laura A",
   },
   {
     image:
